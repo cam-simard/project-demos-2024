@@ -1,20 +1,10 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
--- 
--- Create Date: 12/01/2023 08:00:43 AM
--- Design Name: 
--- Module Name: datapath_tb - Behavioral
--- Project Name: 
--- Target Devices: 
--- Tool Versions: 
--- Description: 
--- 
--- Dependencies: 
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
+-- University  : University of Alberta
+-- Course      : ECE 410 Advanced Digital Logic Design
+-- Project     : Lab 3 Part 4: CPU Test Programs
+-- Authors     : Eric Khumbata, Cameron Simard
+-- Students ID : 1559320, 1662680
+-- Date        : December 1 2023
 -- 
 ----------------------------------------------------------------------------------
 

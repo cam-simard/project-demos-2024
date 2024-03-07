@@ -1,14 +1,10 @@
 ----------------------------------------------------------------------------------
--- Company: Department of Electrical and Computer Engineering, University of Alberta
--- Engineer: Shyama Gandhi and Bruce Cockburn
--- Create Date: 10/29/2020 07:18:24 PM
--- Description: CPU LAB 3 - ECE 410 (2021)
--- Revision:
--- Revision 0.01 - File Created
--- Revision 1.01 - File Modified by Raju Machupalli (October 31, 2021)
--- Revision 2.01 - File Modified by Shyama Gandhi (November 2, 2021)
--- Revision 3.01 - File Modified by Antonio Andara (October 31, 2023)
--- Additional Comments:
+-- University  : University of Alberta
+-- Course      : ECE 410 Advanced Digital Logic Design
+-- Project     : Lab 3 Part 4: CPU Test Programs
+-- Authors     : Eric Khumbata, Cameron Simard
+-- Students ID : 1559320, 1662680
+-- Date        : December 1 2023
 -- 
 ----------------------------------------------------------------------------------
 
